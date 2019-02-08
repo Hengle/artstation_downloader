@@ -2,4 +2,4 @@
 
 Download artworks from an artist using their username.
 
-`artstation.py artistname`
+`python3 artstation.py artistname`
